@@ -1,0 +1,5 @@
+pandas
+scikit-learn
+streamlit
+
+https://github.com/riteshgursal/Sales-Prediction-Model-ML.git
